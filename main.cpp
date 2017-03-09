@@ -47,7 +47,8 @@ int main(){
             		break;
 		case 6:
 			cout << "Qual os valores do Cubo?" << endl;
-			cout << "Aresta: "; //Aresta usando variavel de altura
+			//Aresta usando variavel de altura
+			cout << "Aresta: "; 
 			cin >> alt;
             		break;
 		case 7:
